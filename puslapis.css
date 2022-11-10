@@ -1,0 +1,106 @@
+#logo {
+    color: magenta;
+    width: 20%;
+    margin: 0 auto;
+    display: inline-block;
+}
+.numeris {
+    padding: 40px;
+    background-color: aquamarine;
+    outline: 2pt;
+    border: 2pt;
+    border-color: brown;
+}
+.header {
+    height: 30%;
+    width: auto;
+    padding: 20px;
+    background-color: lightgreen;
+    display: block;
+    text-align: justify;
+}
+.menuItem {
+    background-color: darkgreen;
+    padding: auto;
+    color: white;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 10px;
+}
+.box1 {
+    background-color: grey;
+    display: block;
+    box-sizing: border-box;
+    text-align: center;
+}
+.box2 {
+    background-color: grey;
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+}
+.text {
+    background-color: grey;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 49%;
+    text-align: center;
+}
+.image1 {
+    background-color: grey;
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    width: 10%;
+}
+.box3 {
+    background-color: grey;
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+}
+.image2 {
+    background-color: grey;
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    width: 10%;
+}
+.header1 {
+    height: 30%;
+    width: auto;
+    padding: 20px;
+    background-color: lightgreen;
+    display: block;
+    text-align: center;
+}
+.padingas {
+    padding: 10px;
+}
+.fonasJuodas{
+    background-color: black;
+    color: lime;
+}
+.fonasSalotinis {
+    background-color: lime;
+    color: black;
+}
+.juodasborderis {
+    border: 2pt solid black;
+}
+.image1 {
+    width: 20%;
+    height: auto;
+    margin: 0;
+    display: inline-block;
+    border: 2pt;
+    border-color: rebeccapurple;
+}
+.image2 {
+    width: 20%;
+    height: auto;
+    margin: 0;
+    display: inline-block;
+    border: solid 2pt;
+    border-color: rebeccapurple;
+}

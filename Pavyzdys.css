@@ -1,0 +1,36 @@
+.parent {
+    background-color: aqua;
+    /*padarem 0, nes kitaip nepadarysim 50% kiekvienam elementui*/
+    font-size: 0;
+}
+.box {
+    /*reikalingas nes parent yra 0, kitaip nematytume*/
+    font-size: 15px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    /*padarom elemntus draugiskus*/
+    display: inline-block;
+    width: 49%;
+    text-align: center;
+    /*isorine vieta aplink dezute*/
+    /*margin: 10px;*/
+    /*ilgasis budas*/
+    /*margin-left: 10px;*/
+    /*margin-right: 10px;*/
+    /*margin-bottom: 10px;*/
+    /*margin-top: 10px;*/
+
+    /*vidine vieta aplink dezute*/
+    padding: 10px;
+    /*ilgasis budas*/
+    /*padding-left: 10px;*/
+    /*padding-right: 10px;*/
+    /*padding-top: 10px;*/
+    /*padding-bottom: 10px;*/
+}
+.left-margin {
+    margin-left: 1%;
+}
+.right-margin {
+    margin-right: 1%;
+}
